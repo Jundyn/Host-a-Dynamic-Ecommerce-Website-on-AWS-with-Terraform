@@ -29,7 +29,7 @@ Additionally, you will need:
 
 ## Reference Architecture
 
-Please refer to the [[reference diagram](https://github.com/Jundyn/Host-a-Dynamic-Ecommerce-Website-on-AWS-with-Terraform/blob/main/Ecommerce-Terraform.png)] for a visual representation of the architecture.
+Please refer to the ![Alt text](https://github.com/Jundyn/Host-a-Dynamic-Ecommerce-Website-on-AWS-with-Terraform/blob/main/Ecommerce-Terraform.png) for a visual representation of the architecture.
 
 ## Setup Instructions
 
@@ -89,7 +89,7 @@ If you encounter any issues or have suggestions for improvements, please don't h
 Happy deploying, and best of luck with your ecommerce venture!
 
 For more details, check out the reference diagram and feel free to adapt the provided Terraform scripts to suit your needs.
-[[Webdisplay](https://github.com/Jundyn/Host-a-Dynamic-Ecommerce-Website-on-AWS-with-Terraform/blob/main/weboutput.png)]
+![Alt text](https://github.com/Jundyn/Host-a-Dynamic-Ecommerce-Website-on-AWS-with-Terraform/blob/main/weboutput.png)
 
 Feel free to explore the repository, experiment with the configurations, and modify as needed to fit your specific requirements. For any issues or questions reachout to me on muidyn@gmail.com
 ---

@@ -73,7 +73,7 @@ This project sets up a dynamic ecommerce website using Terraform and AWS service
 
 ## Reference Architecture
 
-Please refer to the [reference diagram](link-to-your-diagram) for a visual representation of the architecture.
+Please refer to the [[reference diagram](https://github.com/Jundyn/Host-a-Dynamic-Ecommerce-Website-on-AWS-with-Terraform/blob/main/Ecommerce-Terraform.png)] for a visual representation of the architecture.
 
 ## Contributing
 

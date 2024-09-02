@@ -1,6 +1,8 @@
 # Hosting a Dynamic Ecommerce Website on AWS with Terraform
 
-Welcome to the repository for hosting a dynamic ecommerce website on AWS using Terraform. This project demonstrates how to set up a highly available, scalable, and fault-tolerant web application environment on AWS.
+Welcome to the repository for hosting a dynamic ecommerce website on AWS using Terraform. This project provides a comprehensive guide and set of Terraform scripts for setting up a scalable, highly available, and fault-tolerant web application infrastructure on Amazon Web Services (AWS).
+
+In today's digital landscape, having a reliable and efficient ecommerce platform is crucial for business success. This project leverages Terraform, an Infrastructure as Code (IaC) tool, to automate the deployment and management of AWS resources. By using Terraform, you can version control your infrastructure, ensure consistency across environments, and easily scale your application to handle varying levels of traffic. 
 
 ## Table of Contents
 1. [Prerequisites](#prerequisites)
@@ -24,6 +26,10 @@ Additionally, you will need:
 
 - **A GitHub account** for version control and project management.
 - **Public SSH Key** for GitHub access.
+
+## Reference Architecture
+
+Please refer to the [[reference diagram](https://github.com/Jundyn/Host-a-Dynamic-Ecommerce-Website-on-AWS-with-Terraform/blob/main/Ecommerce-Terraform.png)] for a visual representation of the architecture.
 
 ## Setup Instructions
 
@@ -52,6 +58,10 @@ This project sets up a dynamic ecommerce website using Terraform and AWS service
 - **SNS Topic**: For notifications and alerts.
 - **Route 53**: DNS service for domain name management.
 
+This repository includes all the necessary Terraform configurations and scripts to set up the entire infrastructure, along with a reference diagram to help visualize the architecture. Whether you're looking to deploy a new ecommerce site or enhance an existing one, this project provides a solid foundation to build upon.
+
+We hope this guide helps you create a robust ecommerce platform and enhances your understanding of AWS and Terraform.
+
 ## Deploying the Infrastructure
 
 1. **Initialize Terraform**: Navigate to your project directory and run:
@@ -71,14 +81,17 @@ This project sets up a dynamic ecommerce website using Terraform and AWS service
 
 4. **Verify Deployment**: Check the AWS Management Console to ensure resources are created as expected.
 
-## Reference Architecture
+## Conclusion 
+Thank you for exploring this project on hosting a dynamic ecommerce website with Terraform on AWS. By following the steps and utilizing the provided Terraform scripts, you can deploy a robust, scalable, and highly available web application infrastructure. This setup demonstrates the power of Infrastructure as Code (IaC) and cloud services in modern DevOps practices.
 
-Please refer to the [[reference diagram](https://github.com/Jundyn/Host-a-Dynamic-Ecommerce-Website-on-AWS-with-Terraform/blob/main/Ecommerce-Terraform.png)] for a visual representation of the architecture.
+If you encounter any issues or have suggestions for improvements, please don't hesitate to reach out via GitHub issues or pull requests. I welcome contributions and feedback to enhance the project further.
 
-## Contributing
+Happy deploying, and best of luck with your ecommerce venture!
 
-If you have suggestions or improvements, please fork the repository and submit a pull request. Your contributions are welcome!
-
----
+For more details, check out the reference diagram and feel free to adapt the provided Terraform scripts to suit your needs.
+[[Webdisplay](https://github.com/Jundyn/Host-a-Dynamic-Ecommerce-Website-on-AWS-with-Terraform/blob/main/weboutput.png)]
 
 Feel free to explore the repository, experiment with the configurations, and modify as needed to fit your specific requirements. For any issues or questions reachout to me on muidyn@gmail.com
+---
+
+

@@ -91,7 +91,8 @@ Happy deploying, and best of luck with your ecommerce venture!
 For more details, check out the reference diagram and feel free to adapt the provided Terraform scripts to suit your needs.
 ![Alt text](https://github.com/Jundyn/Host-a-Dynamic-Ecommerce-Website-on-AWS-with-Terraform/blob/main/weboutput.png)
 
-Feel free to explore the repository, experiment with the configurations, and modify as needed to fit your specific requirements. For any issues or questions reachout to me on muidyn@gmail.com
+Feel free to explore the repository, experiment with the configurations, and modify as needed to fit your specific requirements. For any issues or questions reach out to me on muidyn@gmail.com
+
 ---
 
 
